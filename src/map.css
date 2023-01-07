@@ -1,0 +1,21 @@
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.map {
+  height: 100%;
+}
+#china-map {
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+#china-echarts {
+  float: left;
+  height: 100%;
+  width: 50%;
+}
